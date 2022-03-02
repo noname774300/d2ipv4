@@ -1,0 +1,13 @@
+[package]
+name = "d2ipv4_rust"
+version = "0.1.0"
+authors = ["noname774300"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hex = "0.4.2"
+indicatif = "0.15.0"
+md-5 = "0.9.1"
+rayon = "1.3.1"
